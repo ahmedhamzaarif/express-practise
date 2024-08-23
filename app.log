@@ -1,0 +1,4 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"7.771\"}","timestamp":"2024-08-08T13:25:01.063Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"1.571\"}","timestamp":"2024-08-08T13:27:03.207Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"201\",\"responseTime\":\"0.795\"}","timestamp":"2024-08-08T13:27:09.574Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"HEAD\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"1.606\"}","timestamp":"2024-08-08T13:27:14.177Z"}
